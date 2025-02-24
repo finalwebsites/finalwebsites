@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm **Olaf Lederer**, a web developer and tech enthusiast with a strong focus on **WordPress development, web optimization, and security**. As the founder of **finalwebsites**, I build custom web solutions, develop efficient tools, and help businesses improve their online presence.  
 
-<!--
-**finalwebsites/finalwebsites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I specialize in:  
+- **PHP & WordPress development** (custom plugins, themes, and optimizations)  
+- **Web performance & security** (fast, secure, and scalable solutions)  
+- **Hosting & server management**  
+- **SEO & online marketing strategies**  
 
-Here are some ideas to get you started:
+🚀 I also created **Backup4WP**, a simple and efficient tool for managing WordPress backups.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect! Feel free to check out my projects or reach out for collaboration.  
+
+---
+
+This version keeps it concise, relevant to GitHub users, and highlights your expertise in development and technology. Let me know if you'd like any tweaks! 😊
